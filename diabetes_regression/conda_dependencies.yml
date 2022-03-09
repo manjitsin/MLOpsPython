@@ -38,6 +38,6 @@ dependencies:
       # MLOps with R
       - azure-storage-blob
 
-  - lightgbm
-  - panda
-  - scikit-learn
+      - lightgbm
+      - panda
+      - scikit-learn
